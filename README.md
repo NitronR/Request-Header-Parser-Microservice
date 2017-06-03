@@ -1,2 +1,4 @@
-# Request-Header-Parser-Microservice
-Uses request headers to display IP address, language and OS of the browser.
+Request Header Parser Microservice
+=========================
+
+This service displays the IP address, language and operating system for your browser.
